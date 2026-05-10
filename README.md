@@ -4,6 +4,12 @@
 
 ---
 
+### 🔗 Quick Links
+- **Live Demo**: [https://notebook-lm-clone-pi.vercel.app/](https://notebook-lm-clone-pi.vercel.app/)
+- **GitHub Repository**: [https://github.com/anushkabhansalii/NoteBookLLM.git](https://github.com/anushkabhansalii/NoteBookLLM.git)
+
+---
+
 ## Demo
 
 ![App Screenshot](./demo.png)
