@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Quick Links
-- **Live Demo**: [https://notebook-lm-clone-pi.vercel.app/](https://notebook-lm-clone-pi.vercel.app/)
+- **Live Demo**: [https://notebook-lm-clone-pi.vercel.app/](https://note-book-llm-orpin.vercel.app/)
 - **GitHub Repository**: [https://github.com/anushkabhansalii/NoteBookLLM.git](https://github.com/anushkabhansalii/NoteBookLLM.git)
 
 ---
