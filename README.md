@@ -12,7 +12,8 @@
 
 ## Demo
 
-![App Screenshot](./demo.png)
+<img width="1600" height="1041" alt="WhatsApp Image 2026-05-10 at 14 24 12" src="https://github.com/user-attachments/assets/36aaaea5-c78b-4b1f-ae23-d9ef0c9be395" />
+
 
 ---
 
