@@ -1,0 +1,29 @@
+# Environment & secrets
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Upload temp folder contents (but keep the folder)
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Build output
+client/dist/
+client/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor folders
+.vscode/
+.idea/
